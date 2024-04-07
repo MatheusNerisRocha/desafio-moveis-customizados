@@ -6,3 +6,4 @@ Neste desafio, o objetivo era reconstruir um projeto HTML e CSS que havia sofrid
 
 Este desafio ofereceu uma oportunidade valiosa para praticar HTML e CSS, além de testar minha capacidade de compreensão e resolução de problemas.
 
+Dê uma olhada no desafio, hospedado no Vercel:
